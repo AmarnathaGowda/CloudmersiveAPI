@@ -1,0 +1,3 @@
+pip install cloudmersive-nlp-api-client
+pip install cloudmersive-validate-api-client
+pip install python-dotenv
